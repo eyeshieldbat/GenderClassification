@@ -1,4 +1,4 @@
-# Gender Classification menggunakan GoogLeNet
+# Gender Classification menggunakan VGG, GoogLeNet, dan Resnet
 
 Gender Classification ini dilakukan oleh kelompok Alan Turing. Repository ini dibuat dalam rangka implementasi model deep learning dalam melakukan klasifikasi gender dengan menggunakan dataset dari CelebA. Model deep learning yang digunakan yakni :
   - VGG : VGG16 menggunakan TensorFlow (by Sandy Thias Andreatno)
