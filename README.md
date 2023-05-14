@@ -6,10 +6,13 @@ Gender Classification ini dilakukan oleh kelompok Alan Turing. Repository ini di
   - Resnet : Resnet18, Resnet34. Resnet50 menggunakan Pytorch (by Alfonsus Haryo Sangaji)
 
 Dalam implementasi kami menggunakan beberapa varibel uji coba :
-1. Learning rate : 0.001
+1. Learning rate : 0.001, 0.0001
 2. Loss function : CrossEntropyLoss
 3. Optimizer : Adam
-4. Batch size : 32
-5. Epoch : 10
+4. Batch size : 32, 64
+5. Epoch : 10, 32
+
+
+
 
 
