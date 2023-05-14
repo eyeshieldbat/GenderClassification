@@ -12,6 +12,10 @@ Dalam implementasi kami menggunakan beberapa varibel uji coba :
 4. Batch size : 32, 64
 5. Epoch : 10, 32
 
+Gambar Aplikasi Gender Classification
+
+![image](https://github.com/eyeshieldbat/GenderClassification/assets/109057552/09b6a34d-da15-4728-9f4e-d9761c7af62d)
+
 
 
 
